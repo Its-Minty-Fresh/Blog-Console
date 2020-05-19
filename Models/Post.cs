@@ -11,5 +11,8 @@ namespace BlogsConsole.Models
 
         public int BlogId { get; set; }
         public Blog Blog { get; set; }
+
     }
+
+
 }
